@@ -21,3 +21,4 @@ Pour vous inspirer, voici quelques sources avec différents indicateurs que vous
 * [**IDH :**  Indice de développement humain — Wikipédia](https://en.wikipedia.org/wiki/Human_Development_Index)
 * [**Pourcentage de la population qui utilise un smartphone :** List of countries by smartphone penetration](https://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration)
 * [**L’empreinte écologique et biocapacité**](https://data.footprintnetwork.org/#/)
+
