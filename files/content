@@ -1,29 +1,23 @@
-# JupyterLite Demo
+# NotebookImpactNum
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+Ce notebook permet de visualiser l'empreinte écologique par pays en fonction de leur utilisation d'internet. Il a été utilisé pour produire le graphique d'une capsule pédagogique du [Mooc Impacts environnementaux du numérique](https://www.fun-mooc.fr/fr/cours/impacts-environnementaux-du-numerique/).
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+Cette activité pédagogique est aussi disponible via [ce lien](https://learninglab.gitlabpages.inria.fr/mooc-impacts-num/mooc-impacts-num-ressources/Partie1/Activites/Capsule_Partie1_4_2Agir/story.html).
 
-## ✨ Try it in your browser ✨
+## Liens vers le notebook
 
-➡️ **https://jupyterlite.github.io/demo**
+https://inrialearninglab.github.io/NotebookImpactNumJupyterlite
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+## A vous de coder !
+Vous pourrez par exemple :
+- Modifier les valeurs relatives à un pays,
+- ajouter des pays,
+- construire un graphique similaire avec d'autres indicateurs,
+- ...
 
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+Pour vous inspirer, voici quelques sources avec différents indicateurs que vous pourrez utiliser :
+* [**PIB :** Liste des pays par PIB (PPA) par habitant — Wikipédia (2017)](https://fr.wikipedia.org/wiki/Liste_des_pays_par_PIB__par_habitant)
+* [**Happiness :**  World hapiness report (2019)](https://fr.wikipedia.org/wiki/World_Happiness_Report)
+* [**IDH :**  Indice de développement humain — Wikipédia](https://en.wikipedia.org/wiki/Human_Development_Index)
+* [**Pourcentage de la population qui utilise un smartphone :** List of countries by smartphone penetration](https://en.wikipedia.org/wiki/List_of_countries_by_smartphone_penetration)
+* [**L’empreinte écologique et biocapacité**](https://data.footprintnetwork.org/#/)
